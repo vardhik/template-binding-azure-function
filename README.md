@@ -1,0 +1,1 @@
+# template-binding-azure-function
